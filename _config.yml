@@ -1,0 +1,26 @@
+name: BNOTIONS Engineering 
+markdown: redcarpet
+pygments: true
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+authors:
+    mark_reale:
+        name: Mark Reale
+        display_name: Mark
+        email: mark@bnotions.com
+        twitter: markreale
+    alex_tucker:
+        name: Alex Tucker
+        display_name: Alex
+        email: alex@bnotions.com
+        twitter: _AlexTucker
+    nahim_nasser:
+        name: Nahim Nasser
+        display_name: Nahim
+        email: nahim@bnotions.com
+        twitter: nahimnasser
+
